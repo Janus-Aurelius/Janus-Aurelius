@@ -15,10 +15,6 @@ Junior Software Engineering student at VNU HCM-UIT focused on scalable system de
 * **Architecture:** Engineered a high-throughput backend focusing on algorithmic scaling under constrained resources. Transitioned geospatial indexing to Uber H3 and implemented MQTT for real-time telemetry. 
 * **Impact:** Fine-tuned the driver-matching algorithm and infrastructure load-balancing, doubling throughput and significantly reducing matching latency during simulated high-load events (10,000 active concurrent drivers).
 
-**[Concurrent Data Aggregation Pipeline](link-to-repo)** | *Python (FastAPI), spaCy, Groq LLM, Prometheus, Grafana*
-* **Architecture:** Built a high-performance ETL engine utilizing a FIFO queue, configurable parallelism, and a network proxy orchestrator. Engineered a multi-stage data refinery pipeline routing to dual-write sinks.
-* **Impact:** Achieved deep system observability and performance monitoring by instrumenting the pipeline with Grafana and Prometheus.
-
 **[Event-Driven Project Management System](https://github.com/Janus-Aurelius/Programming_Paradigm_Microservice_Async_Project_Management)** | *Spring Boot WebFlux, Kafka, Angular, MongoDB*
 * **Architecture:** Developed a distributed, non-blocking backend leveraging Spring Boot WebFlux and Kafka message queues to handle real-time progress tracking.
 * **Impact:** Solved state synchronization for distributed teams by implementing an event-driven architecture with automated status notifications and secure RBAC.
